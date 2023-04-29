@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "865132728605",
+    "project_id": "fluchatbot",
+    "storage_bucket": "fluchatbot.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:865132728605:android:f268a927083294ba0e51f4",
+        "android_client_info": {
+          "package_name": "com.kobiriot.fluchatgpt"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "865132728605-0g5rgmns3mamb8v777nmd67ndqrhrmht.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.kobiriot.fluchatgpt",
+            "certificate_hash": "31afa17eff356cf519cc3bf7aae9ee327107916f"
+          }
+        },
+        {
+          "client_id": "865132728605-unjjsmtrkrmfdat4hjtg0b9e8tctja9p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAO1uiwyI38PoDJU96_-BEBhyxBaL5jm3o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "865132728605-unjjsmtrkrmfdat4hjtg0b9e8tctja9p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
